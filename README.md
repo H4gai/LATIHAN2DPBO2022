@@ -10,9 +10,9 @@
 ##### class Product memiliki atribut
     : price, idProduct
 ##### class Hardware memiliki atribut 
-  : brand, model
+    : brand, model
 
-pada main ditampilkan data mengenai data produk yang sudah di masukan menggunakan setter dan ditampilkan menggunakan getter
+##### pada main ditampilkan data mengenai data produk yang sudah di masukan menggunakan setter dan ditampilkan menggunakan getter
 
 
 
